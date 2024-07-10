@@ -1,2 +1,2 @@
-# accessibility-quiz
-Accessibility Quiz Responsive Web Design
+# Accessibility Quiz
+Accessibility Quiz Responsive Web Design by Abdallah - web developer
