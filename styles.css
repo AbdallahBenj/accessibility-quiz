@@ -217,6 +217,11 @@ address {
     flex-direction: column;
   }
 
+  #logo {
+    width: 12rem;
+    padding: 0.5rem;
+  }
+
   h1 {
     margin: 0 auto;
     padding: 0.25rem;
