@@ -199,6 +199,7 @@ address {
 
   nav > ul {
     flex-wrap: nowrap;
+    justify-content: center;
   }
 
   h1 {
